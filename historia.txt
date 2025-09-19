@@ -3,3 +3,4 @@ Hola
 Adios
 hola de nuevo
 adios
+Error corregido desde la rama bugfix/
