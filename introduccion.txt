@@ -1,3 +1,4 @@
 Primera línea modificada en bufix
 Segunda línea de texto
 Tercera línea de texto
+Ampliar apartado 5
